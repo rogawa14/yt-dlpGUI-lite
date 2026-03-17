@@ -4,7 +4,7 @@ yt-dlp GUI Lite - README / 使い方
 
 Version: 2.0
 Author: rogawa
-Website: https://github.com/rogawa14/yt-dlp_gui
+Website: https://github.com/rogawa14/yt-dlpGUI-lite
 
 本ソフトは yt-dlp をより簡単に使えるようにした GUI (グラフィカルユーザーインターフェイス) です。
 yt-dlp と ffmpeg を同梱しており、動画や音声のダウンロードを簡単に行えます。
@@ -108,4 +108,4 @@ yt-dlp BSD 2条項ライセンス
 ---------------------------------------------------
 [Support / サポート]
 - ソースコード・更新情報・不具合報告はこちら：
-  https://github.com/rogawa14/yt-dlp_gui
+  https://github.com/rogawa14/yt-dlpGUI-lite
