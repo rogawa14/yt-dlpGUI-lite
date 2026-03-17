@@ -2,7 +2,7 @@
 yt-dlp GUI Lite - License Information / ライセンス情報
 ---------------------------------------------------
 
-Copyright (C) 2025 rogawa
+Copyright (C) 2026 rogawa
 
 This program is a GUI wrapper for yt-dlp to make it easier to use.
 This distribution includes yt-dlp and ffmpeg.
@@ -50,11 +50,11 @@ This distribution includes yt-dlp and ffmpeg.
 [This GUI Software / 本 GUI ソフトについて]
 - This software itself is licensed under the MIT License.
 - Source code is available at:
-  https://github.com/rogawa14/yt-dlp_gui
+  https://github.com/rogawa14/yt-dlpGUI-lite
 
 - 本ソフト自体は MIT License として配布しています。
 - ソースコードはこちらで公開：
-  https://github.com/rogawa14/yt-dlp_gui
+  https://github.com/rogawa14/yt-dlpGUI-lite
 
 ---------------------------------------------------
 [Disclaimer / 免責事項]
