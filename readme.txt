@@ -109,3 +109,5 @@ yt-dlp BSD 2条項ライセンス
 [Support / サポート]
 - ソースコード・更新情報・不具合報告はこちら：
   https://github.com/rogawa14/yt-dlpGUI-lite
+または
+X：@roooooooooogawa
