@@ -1,0 +1,66 @@
+---------------------------------------------------
+yt-dlp GUI Lite - License Information / ライセンス情報
+---------------------------------------------------
+
+Copyright (C) 2025 rogawa
+
+This program is a GUI wrapper for yt-dlp to make it easier to use.
+This distribution includes yt-dlp and ffmpeg.
+
+本プログラムは yt-dlp を GUI から使いやすくするためのソフトです。
+配布には yt-dlp および ffmpeg を同梱しています。
+
+---------------------------------------------------
+[yt-dlp]
+- yt-dlp is licensed under the MIT License.
+- Redistribution and modification are permitted.
+- For more details, see the official repository:
+  https://github.com/yt-dlp/yt-dlp
+
+【yt-dlp 本体について】
+- yt-dlp は MIT License のもとで配布されています。
+- 再配布および改変が可能です。
+- 詳細は公式リポジトリを参照してください：
+  https://github.com/yt-dlp/yt-dlp
+
+---------------------------------------------------
+[ffmpeg]
+- This program includes ffmpeg, which is licensed under the
+  GNU General Public License (GPL) version 2 or later.
+- ffmpeg source code and license details:
+  https://ffmpeg.org/download.html
+  https://ffmpeg.org/legal.html
+
+- When distributing ffmpeg, the following must be observed:
+  1. Provide access to the source code or indicate how to obtain it.
+  2. If modified, redistribute under the same GPL terms.
+
+【ffmpeg 本体について】
+- 本プログラムには ffmpeg が含まれています。
+- ffmpeg は GNU General Public License (GPL) v2 以降に従っています。
+- ffmpeg のソースコードおよびライセンス詳細：
+  https://ffmpeg.org/download.html
+  https://ffmpeg.org/legal.html
+
+- ffmpeg 配布時の条件：
+  1. ソースコードへのアクセスを提供するか、入手方法を明示する
+  2. 改変した場合は同じ GPL 条件で配布すること
+
+---------------------------------------------------
+[This GUI Software / 本 GUI ソフトについて]
+- This software itself is licensed under the MIT License.
+- Source code is available at:
+  https://github.com/rogawa14/yt-dlp_gui
+
+- 本ソフト自体は MIT License として配布しています。
+- ソースコードはこちらで公開：
+  https://github.com/rogawa14/yt-dlp_gui
+
+---------------------------------------------------
+[Disclaimer / 免責事項]
+- This software and included binaries (yt-dlp, ffmpeg) are provided "as-is".
+- No warranty is provided. The author is not responsible for any damages,
+  commercial use, or incidents.
+
+- 本ソフトおよび同梱の yt-dlp、ffmpeg は「現状のまま」提供されます。
+- いかなる保証もありません。損害や事故、商用利用について作者は責任を負いません。
